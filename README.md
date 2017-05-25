@@ -25,3 +25,11 @@ License
 
 BellaCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
+
+
+Update
+-------
+
+BellaCoin's original initiatives came at a time unfortunately when the world wasn't as aware or accepting of crypto currencies or blockchain technology.
+Another team has taken over develoment, and the original team and its associates and developers are no longer part of the project in any form.
+The new official repo can be found at: https://github.com/theambiafund/belacoin
